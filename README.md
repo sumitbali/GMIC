@@ -31,7 +31,7 @@ The implementation allows users to obtain breast cancer predictions and visualiz
 
 * Python (3.6)
 * PyTorch (1.1.0)
-* torchvision (0.2.0)
+* torchvision (0.2.2)
 * NumPy (1.14.3)
 * SciPy (1.0.0)
 * H5py (2.7.1)
